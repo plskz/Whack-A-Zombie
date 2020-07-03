@@ -1,3 +1,4 @@
 # Whack-A-Zombie
 
-netbeans game
+tags
+Whack a mole
